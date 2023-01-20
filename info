@@ -1,10 +1,7 @@
 {
-    "statusCode":200,
     "versionCode":1,
     "versionName":"1.0.0",
     "change_log":[
-        "1",
-        "2",
-        "3"
+        "新增挑战答题分类判断"
     ]
 }
